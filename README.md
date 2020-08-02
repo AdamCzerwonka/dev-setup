@@ -14,3 +14,11 @@
   - Path Intellisense
   - Prettier
   - TSLint
+## Docker
+* WSL2
+* Ubuntu on wsl
+* docker desktop
+## NodeJS
+* Angular
+* Lite-server
+**Î
