@@ -21,4 +21,13 @@
 ## NodeJS
 * Angular
 * Lite-server
-**Î
+## git
+* SSH config
+## vim
+## Windows Terminal
+* PowerShell
+* posh-git
+* oh-my-posh
+* Paradox Theme
+* Cascadia Code PL
+* icons and other profiles
